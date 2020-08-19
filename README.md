@@ -1,5 +1,4 @@
 <!--
-### Hellooo!!!  👋 Welcome to my profile.
 
 **heliohdd/heliohdd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,7 +17,7 @@ Here are some ideas to get you started:
 # Hélio Dourado :man_technologist:
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/heliohdd/)](https://www.linkedin.com/in/heliohdd/)
-
+### Hellooo!!!  👋 Welcome to my profile.
 My name is Hélio and...:
 
 - 😄 I really like to learn.
