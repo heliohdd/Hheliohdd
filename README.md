@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 # Hélio Dourado <!--:man_technologist:-->
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/heliohdd/)](https://www.linkedin.com/in/heliohdd/)
-### Resumo
+### Qualificações
 Capacitado a criar aplicações de ponta a ponta desde a arquitetura até o deploy e monitoramento com conhecimento em Arquitetura de Software e Autenticação/Autorização de Microsserviços. Foco em desenvolvimento de soluções **Web Service** baseadas em **API RESTful** usando **Java** com **Spring Boot** e banco de dados **SQL** e **NoSQL**.
 
 Utilizo **JPA** com **Hibernate** para mapeamento objeto-relacional, **SMTP Google** para envio automatizado de email, **AWS S3** para armazenamento de arquivos em nuvem, autenticação e autorização com **tokens JWT**, e implantação ***on cloud*** usando a plataforma (PaaS) **Heroku/Amazon EC2**.
