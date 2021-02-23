@@ -1,47 +1,20 @@
-<!--
+# Hello everyone, my name is Hélio 
 
-**heliohdd/heliohdd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Brazilian and a Java Spring Boot developer.
 
-Here are some ideas to get you started:
+Besides that I have knowledge in Angular, Docker, TypeScript, JavaScript, HTML, Node, CSS, BootStrap and MySQL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I hope you like the projects in my repository.
 
-          - 👯 I’m looking to collaborate on ...
-          - 🤔 I’m looking for help with ...
-          - 💬 Ask me about ...
-          - 📫 How to reach me: ...
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 
-          - ⚡ Fun fact: ...
 
+<!-- ## My Networks
+[![Linkedin Badge](https://img.shields.io/badge/-Guilherme%20Marcionilo-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/guilherme-marcionilo/) [![Gmail Badge](https://img.shields.io/badge/-guilhermemarcionilo@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilherme.schell.guilhermemarcionilo@gmail.com)](mailto:guilhermemarcionilo@gmail.com)
 -->
+## GitHub Status
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=heliohdd&show_icons=true&theme=blue-green)
 
-# Hélio Dourado <!--:man_technologist:-->
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/heliohdd/)](https://www.linkedin.com/in/heliohdd/)
-### Qualificações
-Capacitado a criar aplicações de ponta a ponta desde a arquitetura até o deploy e monitoramento com conhecimento em Arquitetura de Software e Autenticação/Autorização de Microsserviços. Foco em desenvolvimento de soluções **Web Service** baseadas em **API RESTful** usando **Java** com **Spring Boot** e banco de dados **SQL** e **NoSQL**.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heliohdd&show_icons=true&theme=blue-green)
 
-Utilizo **JPA** com **Hibernate** para mapeamento objeto-relacional, **SMTP Google** para envio automatizado de email, **AWS S3** para armazenamento de arquivos em nuvem, autenticação e autorização com **tokens JWT**, e implantação ***on cloud*** usando a plataforma (PaaS) **Heroku/Amazon EC2**.
-
-### Habilidades
-- Desenvolvimento Web Service [Java]
-- Banco de dados SQL [MySQL, Postegres]
-- Banco de dados NoSQL [MongoDB]
-- Controle de versionamento [GitHub]
-### Ferramentas
-- Spring Tool Suite - STS 4
-- Eclipse
-- Postman
-- Swagger
-- JUnit
-### Idiomas
-- Inglês - Fluente
-- Francês - Intermediário
-- Espanhol - Intermediário
